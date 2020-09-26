@@ -1,0 +1,15 @@
+const FATHER = true;
+char me[] = "idiot";
+
+while(FATHER)
+{
+   if(me === "idiot")
+   {
+	println(FATHER);
+   }
+   else
+   {
+        println(FATHER);
+   }
+
+}
